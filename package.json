@@ -1,0 +1,22 @@
+{
+  "name": "friendly-barnacle",
+  "version": "1.0.0",
+  "description": "init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamedtoema216/friendly-barnacle.git"
+  },
+  "dependencies": {
+    "redesigned-octo-winner": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedtoema216/friendly-barnacle/issues"
+  },
+  "homepage": "https://github.com/mohamedtoema216/friendly-barnacle#readme"
+}
